@@ -1,0 +1,4 @@
+greiman/SdFat @ 1.0.7
+Wire
+knolleary/PubSubClient @ ^2.8
+EthernetENC=https://github.com/jandrassy/EthernetENC/archive/refs/tags/2.0.1.zip

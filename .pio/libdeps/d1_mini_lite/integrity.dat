@@ -1,0 +1,4 @@
+knolleary/PubSubClient @ ^2.8
+EthernetENC=https://github.com/jandrassy/EthernetENC/archive/refs/tags/2.0.1.zip
+sui77/rc-switch @ ^2.6.3
+https://github.com/ThingPulse/esp8266-oled-ssd1306/archive/4.2.0.zip
