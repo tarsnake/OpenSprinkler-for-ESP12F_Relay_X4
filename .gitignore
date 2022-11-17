@@ -1,6 +1,14 @@
 #
 # Generate by Git Ignore Generator for MacOS#
 
+PlatformIO
+
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
+
 macOS
 
 # General
@@ -29,4 +37,17 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+VisualStudioCode
+
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+# VisualStudioCode - Path
+
+# Ignore all local history of files
+.history
+.ionide
 
